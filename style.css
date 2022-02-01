@@ -1,0 +1,19 @@
+h1{
+    color: red;
+}
+h2{
+    color: blue;
+}
+.mercy{
+    color: green;
+}
+#mtu{
+    color: purple;
+}
+img{
+    width: 50px;
+    border-radius: 50%;
+}
+body{
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fbackgrounds%2Fapps%2Fwebsite&psig=AOvVaw2P1KsI4jLbDL4ZnfqQCPFy&ust=1643802773617000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDdiNa43vUCFQAAAAAdAAAAABAD");
+}
